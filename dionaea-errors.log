@@ -1,0 +1,85 @@
+[11042023 15:02:09] log /root/dionaea/src/signals.c:36-warning: sigterm_cb loop 0x7f74e3eb78e0 w 0x5595674ef9d0 revents 1024
+[11042023 15:08:52] http /dionaea/http.py:133-warning: max_num_fields is only supported with Python >= 3.8
+[11042023 15:15:21] http /dionaea/http.py:133-warning: max_num_fields is only supported with Python >= 3.8
+[11042023 15:15:21] http /dionaea/http.py:699-warning: max_num_fields is only supported with Python >= 3.8
+[11042023 15:17:36] http /dionaea/http.py:133-warning: max_num_fields is only supported with Python >= 3.8
+[11042023 15:17:46] http /dionaea/http.py:133-warning: max_num_fields is only supported with Python >= 3.8
+[11042023 15:45:07] SMB /dionaea/smb/smb.py:127-warning: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[11042023 15:45:07] SMB /dionaea/smb/smb.py:157-warning: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[11042023 15:59:08] mysqld /dionaea/mysql/mysql.py:83-warning: DATABASE opening information_schema
+[11042023 15:59:08] mysqld /dionaea/mysql/mysql.py:86-warning: open db information_schema -> :memory:
+[11042023 15:59:39] connection /root/dionaea/src/connection_tcp.c:271-warning: recv failed size -1 recv_size 1 (Connection reset by peer)
+[11042023 16:03:38] mysqld /dionaea/mysql/mysql.py:83-warning: DATABASE opening information_schema
+[11042023 16:03:38] mysqld /dionaea/mysql/mysql.py:86-warning: open db information_schema -> :memory:
+[11042023 16:11:57] http /dionaea/http.py:133-warning: max_num_fields is only supported with Python >= 3.8
+[11042023 16:16:37] log_sqlite /dionaea/logsql.py:747-warning: no attackid for 64.226.118.52:443
+[11042023 16:46:28] http /dionaea/http.py:133-warning: max_num_fields is only supported with Python >= 3.8
+[11042023 17:01:21] http /dionaea/http.py:133-warning: max_num_fields is only supported with Python >= 3.8
+[11042023 17:14:55] log_sqlite /dionaea/logsql.py:747-warning: no attackid for 64.226.118.52:443
+[11042023 17:18:38] http /dionaea/http.py:133-warning: max_num_fields is only supported with Python >= 3.8
+[11042023 17:20:18] log_sqlite /dionaea/logsql.py:747-warning: no attackid for 64.226.118.52:443
+[11042023 17:20:19] http /dionaea/http.py:133-warning: max_num_fields is only supported with Python >= 3.8
+[11042023 17:20:19] http /dionaea/http.py:133-warning: max_num_fields is only supported with Python >= 3.8
+[11042023 17:20:20] http /dionaea/http.py:133-warning: max_num_fields is only supported with Python >= 3.8
+[11042023 17:20:20] http /dionaea/http.py:133-warning: max_num_fields is only supported with Python >= 3.8
+[11042023 17:20:40] http /dionaea/http.py:133-warning: max_num_fields is only supported with Python >= 3.8
+[11042023 17:21:26] http /dionaea/http.py:133-warning: max_num_fields is only supported with Python >= 3.8
+[11042023 17:38:44] http /dionaea/http.py:133-warning: max_num_fields is only supported with Python >= 3.8
+[11042023 17:49:05] http /dionaea/http.py:133-warning: max_num_fields is only supported with Python >= 3.8
+[11042023 17:49:05] http /dionaea/http.py:699-warning: max_num_fields is only supported with Python >= 3.8
+[11042023 18:11:52] http /dionaea/http.py:133-warning: max_num_fields is only supported with Python >= 3.8
+[11042023 18:16:47] log_sqlite /dionaea/logsql.py:747-warning: no attackid for 64.226.118.52:443
+[11042023 18:23:52] log_sqlite /dionaea/logsql.py:747-warning: no attackid for 64.226.118.52:443
+[11042023 18:42:15] http /dionaea/http.py:133-warning: max_num_fields is only supported with Python >= 3.8
+[11042023 18:53:22] http /dionaea/http.py:133-warning: max_num_fields is only supported with Python >= 3.8
+[11042023 18:53:31] http /dionaea/http.py:133-warning: max_num_fields is only supported with Python >= 3.8
+[11042023 18:59:47] http /dionaea/http.py:133-warning: max_num_fields is only supported with Python >= 3.8
+[11042023 18:59:47] http /dionaea/http.py:133-warning: max_num_fields is only supported with Python >= 3.8
+[11042023 19:22:56] mysqld /dionaea/mysql/mysql.py:83-warning: DATABASE opening information_schema
+[11042023 19:22:56] mysqld /dionaea/mysql/mysql.py:86-warning: open db information_schema -> :memory:
+[11042023 19:22:56] mysqld /dionaea/mysql/mysql.py:83-warning: DATABASE opening b''
+[11042023 19:23:07] mysqld /dionaea/mysql/mysql.py:83-warning: DATABASE opening information_schema
+[11042023 19:23:07] mysqld /dionaea/mysql/mysql.py:86-warning: open db information_schema -> :memory:
+[11042023 19:23:07] mysqld /dionaea/mysql/mysql.py:83-warning: DATABASE opening information_schema
+[11042023 19:23:07] mysqld /dionaea/mysql/mysql.py:86-warning: open db information_schema -> :memory:
+[11042023 19:23:07] mysqld /dionaea/mysql/mysql.py:83-warning: DATABASE opening b'mysql'
+[11042023 19:23:20] mysqld /dionaea/mysql/mysql.py:83-warning: DATABASE opening information_schema
+[11042023 19:23:20] mysqld /dionaea/mysql/mysql.py:86-warning: open db information_schema -> :memory:
+[11042023 19:23:20] mysqld /dionaea/mysql/mysql.py:83-warning: DATABASE opening information_schema
+[11042023 19:23:20] mysqld /dionaea/mysql/mysql.py:86-warning: open db information_schema -> :memory:
+[11042023 19:23:20] mysqld /dionaea/mysql/mysql.py:83-warning: DATABASE opening b'mysql'
+[11042023 19:23:33] mysqld /dionaea/mysql/mysql.py:83-warning: DATABASE opening information_schema
+[11042023 19:23:33] mysqld /dionaea/mysql/mysql.py:86-warning: open db information_schema -> :memory:
+[11042023 19:23:33] mysqld /dionaea/mysql/mysql.py:83-warning: DATABASE opening information_schema
+[11042023 19:23:33] mysqld /dionaea/mysql/mysql.py:86-warning: open db information_schema -> :memory:
+[11042023 19:23:34] mysqld /dionaea/mysql/mysql.py:83-warning: DATABASE opening b'mysql'
+[11042023 19:23:46] mysqld /dionaea/mysql/mysql.py:83-warning: DATABASE opening information_schema
+[11042023 19:23:46] mysqld /dionaea/mysql/mysql.py:86-warning: open db information_schema -> :memory:
+[11042023 19:23:47] mysqld /dionaea/mysql/mysql.py:83-warning: DATABASE opening information_schema
+[11042023 19:23:47] mysqld /dionaea/mysql/mysql.py:86-warning: open db information_schema -> :memory:
+[11042023 19:23:47] mysqld /dionaea/mysql/mysql.py:83-warning: DATABASE opening b'mysql'
+[11042023 19:24:00] mysqld /dionaea/mysql/mysql.py:83-warning: DATABASE opening information_schema
+[11042023 19:24:00] mysqld /dionaea/mysql/mysql.py:86-warning: open db information_schema -> :memory:
+[11042023 19:24:00] mysqld /dionaea/mysql/mysql.py:83-warning: DATABASE opening information_schema
+[11042023 19:24:00] mysqld /dionaea/mysql/mysql.py:86-warning: open db information_schema -> :memory:
+[11042023 19:24:00] mysqld /dionaea/mysql/mysql.py:83-warning: DATABASE opening b'mysql'
+[11042023 19:24:13] mysqld /dionaea/mysql/mysql.py:83-warning: DATABASE opening information_schema
+[11042023 19:24:13] mysqld /dionaea/mysql/mysql.py:86-warning: open db information_schema -> :memory:
+[11042023 19:24:13] mysqld /dionaea/mysql/mysql.py:83-warning: DATABASE opening information_schema
+[11042023 19:24:13] mysqld /dionaea/mysql/mysql.py:86-warning: open db information_schema -> :memory:
+[11042023 19:24:14] mysqld /dionaea/mysql/mysql.py:83-warning: DATABASE opening b'mysql'
+[11042023 19:25:00] connection /root/dionaea/src/connection_tcp.c:271-warning: recv failed size -1 recv_size 1 (Connection reset by peer)
+[11042023 19:30:16] SMB /dionaea/smb/smb.py:127-warning: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[11042023 19:30:16] SMB /dionaea/smb/smb.py:157-warning: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[11042023 19:31:43] connection /root/dionaea/src/connection_tcp.c:271-warning: recv failed size -1 recv_size 1 (Connection reset by peer)
+[11042023 19:31:43] connection /root/dionaea/src/connection_tcp.c:271-warning: recv failed size -1 recv_size 1 (Connection reset by peer)
+[11042023 19:41:52] connection /root/dionaea/src/connection_tcp.c:271-warning: recv failed size -1 recv_size 1 (Connection reset by peer)
+[11042023 19:41:55] SMB /dionaea/smb/smb.py:127-warning: p.haslayer(Raw): b'2\x00'
+[11042023 19:41:55] SMB /dionaea/smb/smb.py:157-warning: p.haslayer(Raw): b'2\x00'
+[11042023 19:42:57] connection /root/dionaea/src/connection_tcp.c:271-warning: recv failed size -1 recv_size 1 (Connection reset by peer)
+[11042023 19:42:58] SMB /dionaea/smb/smb.py:127-warning: p.haslayer(Raw): b'2\x00'
+[11042023 19:42:58] SMB /dionaea/smb/smb.py:157-warning: p.haslayer(Raw): b'2\x00'
+[11042023 19:55:20] http /dionaea/http.py:133-warning: max_num_fields is only supported with Python >= 3.8
+[11042023 19:57:27] http /dionaea/http.py:133-warning: max_num_fields is only supported with Python >= 3.8
+[11042023 20:13:12] log /root/dionaea/src/signals.c:36-warning: sigterm_cb loop 0x7fb9a1b7a8e0 w 0x556652aae380 revents 1024
+[13042023 15:42:36] log /root/dionaea/src/signals.c:36-warning: sigterm_cb loop 0x7f24db6028e0 w 0x55b32c1ff8d0 revents 1024
